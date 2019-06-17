@@ -3,10 +3,10 @@
     padding: 0;
 }
 
- body {
+body {
     background-color: gray;
 }
- #title {
+#title {
     text-align: center;
     color: black;
     font-size: 30px;
@@ -23,9 +23,6 @@
 p {
     display:inline;
 }
-/*                   #button {
-    display:inline-block;
-} */
 #start {
     margin:20px 20px 0px 515px;
     padding: 10px 30px 10px 30px;
